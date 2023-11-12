@@ -1,0 +1,14 @@
+D:\codes\work\first\LabForth\LabForth\bin\Debug\net6.0\LabForth.exe
+D:\codes\work\first\LabForth\LabForth\bin\Debug\net6.0\LabForth.deps.json
+D:\codes\work\first\LabForth\LabForth\bin\Debug\net6.0\LabForth.runtimeconfig.json
+D:\codes\work\first\LabForth\LabForth\bin\Debug\net6.0\LabForth.dll
+D:\codes\work\first\LabForth\LabForth\bin\Debug\net6.0\LabForth.pdb
+D:\codes\work\first\LabForth\LabForth\obj\Debug\net6.0\LabForth.GeneratedMSBuildEditorConfig.editorconfig
+D:\codes\work\first\LabForth\LabForth\obj\Debug\net6.0\LabForth.AssemblyInfoInputs.cache
+D:\codes\work\first\LabForth\LabForth\obj\Debug\net6.0\LabForth.AssemblyInfo.cs
+D:\codes\work\first\LabForth\LabForth\obj\Debug\net6.0\LabForth.csproj.CoreCompileInputs.cache
+D:\codes\work\first\LabForth\LabForth\obj\Debug\net6.0\LabForth.dll
+D:\codes\work\first\LabForth\LabForth\obj\Debug\net6.0\refint\LabForth.dll
+D:\codes\work\first\LabForth\LabForth\obj\Debug\net6.0\LabForth.pdb
+D:\codes\work\first\LabForth\LabForth\obj\Debug\net6.0\LabForth.genruntimeconfig.cache
+D:\codes\work\first\LabForth\LabForth\obj\Debug\net6.0\ref\LabForth.dll
